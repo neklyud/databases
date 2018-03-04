@@ -1,0 +1,4 @@
+not([type="submit"]) {
+    border: 1px solid #ccc;
+    padding: 3px;
+   }
